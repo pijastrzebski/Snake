@@ -1,0 +1,32 @@
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\bin\Release\Snake.exe.config
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Interop.WMPLib.dll
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.csproj.ResolveComReference.cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\bin\Release\Snake.exe.manifest
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\bin\Release\Snake.application
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\bin\Release\Snake.exe
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.Form1.resources
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.menu.resources
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.Cache
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.exe.manifest
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.application
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.exe
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.pdb
+C:\Users\Piotr\Documents\Visual Studio 2015_\Projects\Snake\Snake\obj\Release\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\bin\Release\Snake.exe.config
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Interop.WMPLib.dll
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.csproj.ResolveComReference.cache
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.pdb
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\bin\Release\Snake.exe.manifest
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\bin\Release\Snake.application
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\bin\Release\Snake.exe
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.Form1.resources
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.menu.resources
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.Cache
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.exe.manifest
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.application
+C:\Users\Piotr\Desktop\mojeProjekty\Snake\Snake\obj\Release\Snake.exe
